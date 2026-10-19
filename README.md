@@ -1,58 +1,56 @@
 ﻿# Hi there 👋 I'm Azimjon Xatamov
 
-🚀 Junior Frontend Developer  
+🚀 **Software Engineer** at **Intelligent Solutions**  
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 I am a passionate Junior Frontend Developer with experience in building modern and responsive web applications using HTML, CSS, SCSS, Tailwind CSS, JavaScript, React, and TypeScript.
+💻 I am a passionate **Software Engineer** specializing in **Fintech & Enterprise Banking Systems**.
 
-👨‍🏫 I have worked as a Tutor and IT Support at Mars IT School, where I helped students understand frontend concepts, solved technical issues, and improved my teamwork and communication skills.
+🏦 At **Intelligent Solutions**, I engineer high-performance backend logic and database systems integrated with **13+ major commercial banks** (including *Anorbank, Agrobank, Octobank, Mybank, Apex Bank*, and more).
 
-🎨 I enjoy transforming design ideas into clean and user-friendly interfaces using Tailwind CSS and SCSS.
+⚡ My expertise bridges robust backend architectures built with **Java, Spring Boot, and Oracle PL/SQL** alongside modern dynamic frontends using **TypeScript, React, and Next.js**.
 
-📈 I continuously improve my skills by working on real-world projects.
-
-🎯 My goal is to become a strong frontend developer and contribute to large-scale IT projects.
+🎨 I focus on building scalable web solutions, optimizing database queries, and turning complex logic into seamless user experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-💻 HTML | CSS | SCSS | Tailwind CSS  
-⚡ JavaScript (ES6+)  
-⚛️ React | TypeScript  
-🔗 Git | GitHub  
+💻 **Frontend:** JavaScript (ES6+) | TypeScript | React | Next.js | HTML5 | CSS3 / SCSS | Tailwind CSS  
+⚙️ **Backend & Enterprise:** Java | Spring Boot | REST APIs | SOAP Services  
+🗄️ **Database & Logic:** Oracle Database | SQL | Complex PL/SQL Optimization  
+🛠️ **Tools & Environment:** Docker 🐳 | Git & GitHub | Postman | IntelliJ IDEA | PL/SQL Developer  
 
 ---
 
 ## 📂 Projects
 
-🔹 E-commerce Admin Panel  
+🔹 **E-commerce Admin Panel**  
 https://e-commeerce-admin.netlify.app/
 
-🔹 Food Lover Website  
+🔹 **Food Lover Website**  
 https://foodloverj.netlify.app/
 
-🔹 Paint Canvas  
+🔹 **Paint Canvas**  
 https://paint-canvas-js.netlify.app/
 
-🔹 QR Code Generator  
+🔹 **QR Code Generator**  
 https://qrcodetelefon.netlify.app/
 
 ---
 
 ## 📫 Contact Me
 
-📞 Phone: +998 88 135 32 33  
-📧 Email: xatamova40@gmail.com  
-💬 Telegram: @azimjon0717  
-🌐 GitHub: https://github.com/azimjonxatamov40  
+📞 **Phone:** +998 88 135 32 33  
+📧 **Email:** xatamova40@gmail.com  
+💬 **Telegram:** [@azimjon0717](https://t.me/azimjon0717)  
+🌐 **GitHub:** [github.com/azimjonxatamov40](https://github.com/azimjonxatamov40)  
 
 ---
 
-⭐️ Always learning and growing!
+⭐️ Always building, optimizing, and growing!
 
 ---
 
