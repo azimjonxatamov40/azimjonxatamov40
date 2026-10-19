@@ -34,15 +34,21 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 🕹️ Interactive Gaming & Typing Header
+
+<div align="center">
+  <a href="https://github.com/azimjonxatamov40">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=60&lines=🎮+Welcome+to+Azimjon's+Developer+Zone!;🚀+Building+Fintech+Apps+for+13%2B+Banks;⚡+Java+%7C+Spring+Boot+%7C+Oracle+%7C+React" alt="Typing Game Banner" />
+  </a>
+</div>
 
 ---
 
@@ -51,20 +57,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azimjonxatamov40&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Azimjon's GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimjonxatamov40&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Most Used Languages" height="175" />
-</div>
-
----
-
-## 🕹️ Gaming & Animated Zone
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Mario Game Animation" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mario%20%26%20Jet%20Fighter%20Zone%20✈️&fontSize=25&animation=twinkling" width="100%" />
 </div>
 
 ---
@@ -87,9 +79,5 @@
 🌐 **GitHub:** [github.com/azimjonxatamov40](https://github.com/azimjonxatamov40)  
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Bottom Game Animation" width="100%" />
-</div>
 
 ⭐️ Always building, optimizing, and growing!
