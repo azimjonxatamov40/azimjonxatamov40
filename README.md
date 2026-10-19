@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.png" alt="Pixel Art Coding Gaming Setup" width="100%" />
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px;" />
 </div>
 
 # Hi there 👋 I'm Azimjon Xatamov
@@ -9,6 +9,7 @@
 ---
 
 ## 🎖️ Air Force & Battlefield Retro Arcade Zone
+
 
 ---
 
