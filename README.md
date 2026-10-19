@@ -55,6 +55,20 @@
 
 ---
 
+## 🕹️ Gaming & Animated Zone
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Mario Game Animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mario%20%26%20Jet%20Fighter%20Zone%20✈️&fontSize=25&animation=twinkling" width="100%" />
+</div>
+
+---
+
 ## 📂 Featured Projects
 
 * 🏢 **Yosh Tadbirkor Platformasi:** [yoshtadbirkor.uz](https://yoshtadbirkor.uz/) — Yosh tadbirkorlar uchun maxsus web platforma.
@@ -62,14 +76,6 @@
 * 🍔 **Food Lover Website:** [foodloverj.netlify.app](https://foodloverj.netlify.app/)
 * 🎨 **Paint Canvas:** [paint-canvas-js.netlify.app](https://paint-canvas-js.netlify.app/)
 * ⚡ **QR Code Generator:** [qrcodetelefon.netlify.app](https://qrcodetelefon.netlify.app/)
-
----
-
-## 🕹️ Interactive Contribution Game (Pacman Eat Contributions)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/snk-anim/snk-anim/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" width="100%" />
-</div>
 
 ---
 
@@ -81,5 +87,9 @@
 🌐 **GitHub:** [github.com/azimjonxatamov40](https://github.com/azimjonxatamov40)  
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Bottom Game Animation" width="100%" />
+</div>
 
 ⭐️ Always building, optimizing, and growing!
