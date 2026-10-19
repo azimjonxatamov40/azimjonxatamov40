@@ -1,6 +1,14 @@
-﻿# Hi there 👋 I'm Azimjon Xatamov
+﻿<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.png" alt="Pixel Art Coding Gaming Setup" width="100%" />
+</div>
 
-🚀 **Software Engineer** at **Intelligent Solutions**
+# Hi there 👋 I'm Azimjon Xatamov
+
+🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
+
+---
+
+## 🎖️ Air Force & Battlefield Retro Arcade Zone
 
 ---
 
@@ -15,9 +23,6 @@
 🎨 I focus on building scalable web solutions, optimizing database queries, and turning complex logic into seamless user experiences.
 
 ---
-
-## 🕹️ Interactive Retro Arcade & Code Zone
-
 
 ## 🛠️ Tech Stack & Badges
 
