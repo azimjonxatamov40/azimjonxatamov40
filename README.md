@@ -12,8 +12,8 @@
 ## 🎖️ Air Force & Battlefield Retro Arcade Zone
 
 <div align="center">
-  <!-- Harakatlanuvchi samolyot va harbiy animatsiya -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3d2U5ZzM1bnB5cXR2MWZiaXU3NWptcmJtbjFxbHFza3dqd2FnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Jet Fighter Flying" width="100%" height="160px" style="object-fit: cover; border-radius: 8px;" />
+  <!-- Clash of Clans / Strategy Battlefield Animation -->
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" alt="Clash of Clans Battle Animation" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 ---
 
