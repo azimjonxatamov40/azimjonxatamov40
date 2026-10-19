@@ -16,6 +16,9 @@
 
 ---
 
+## 🕹️ Interactive Retro Arcade & Code Zone
+
+
 ## 🛠️ Tech Stack & Badges
 
 ### ⚙️ Backend & Enterprise
@@ -39,25 +42,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🕹️ Interactive Gaming & Typing Header
-
-<div align="center">
-  <a href="https://github.com/azimjonxatamov40">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=60&lines=🎮+Welcome+to+Azimjon's+Developer+Zone!;🚀+Building+Fintech+Apps+for+13%2B+Banks;⚡+Java+%7C+Spring+Boot+%7C+Oracle+%7C+React" alt="Typing Game Banner" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats & Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azimjonxatamov40&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Azimjon's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimjonxatamov40&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Most Used Languages" height="175" />
-</div>
 
 ---
 
