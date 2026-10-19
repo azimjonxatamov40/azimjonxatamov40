@@ -55,23 +55,21 @@
 
 ---
 
-## 📂 Featured Projects & Interactive Game Zone
-
-> *🎮 Kichik interaktiv o'yin va so'nggi real loyihalarim bilan tanishing:*
-
-<div align="center">
-  <a href="https://yoshtadbirkor.uz/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=50&lines=🚀+Yosh+Tadbirkor+-+yoshtadbirkor.uz;💼+Fintech+&+Enterprise+Solutions;🔥+Interactive+Developer+Portfolio" alt="Typing Animation" />
-  </a>
-</div>
-
-### 🌟 Asosiy Loyihalarim:
+## 📂 Featured Projects
 
 * 🏢 **Yosh Tadbirkor Platformasi:** [yoshtadbirkor.uz](https://yoshtadbirkor.uz/) — Yosh tadbirkorlar uchun maxsus web platforma.
 * 🛒 **E-commerce Admin Panel:** [e-commeerce-admin.netlify.app](https://e-commeerce-admin.netlify.app/)
 * 🍔 **Food Lover Website:** [foodloverj.netlify.app](https://foodloverj.netlify.app/)
 * 🎨 **Paint Canvas:** [paint-canvas-js.netlify.app](https://paint-canvas-js.netlify.app/)
 * ⚡ **QR Code Generator:** [qrcodetelefon.netlify.app](https://qrcodetelefon.netlify.app/)
+
+---
+
+## 🕹️ Interactive Contribution Game (Pacman Eat Contributions)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/snk-anim/snk-anim/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" width="100%" />
+</div>
 
 ---
 
@@ -85,11 +83,3 @@
 ---
 
 ⭐️ Always building, optimizing, and growing!
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/azimjonxatamov40/azimjonxatamov40/output/github-contribution-grid-snake-dark.svg" />
-</div>
