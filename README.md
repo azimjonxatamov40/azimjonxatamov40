@@ -55,19 +55,23 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects & Interactive Game Zone
 
-🔹 **E-commerce Admin Panel**  
-https://e-commeerce-admin.netlify.app/
+> *🎮 Kichik interaktiv o'yin va so'nggi real loyihalarim bilan tanishing:*
 
-🔹 **Food Lover Website**  
-https://foodloverj.netlify.app/
+<div align="center">
+  <a href="https://yoshtadbirkor.uz/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=50&lines=🚀+Yosh+Tadbirkor+-+yoshtadbirkor.uz;💼+Fintech+&+Enterprise+Solutions;🔥+Interactive+Developer+Portfolio" alt="Typing Animation" />
+  </a>
+</div>
 
-🔹 **Paint Canvas**  
-https://paint-canvas-js.netlify.app/
+### 🌟 Asosiy Loyihalarim:
 
-🔹 **QR Code Generator**  
-https://qrcodetelefon.netlify.app/
+* 🏢 **Yosh Tadbirkor Platformasi:** [yoshtadbirkor.uz](https://yoshtadbirkor.uz/) — Yosh tadbirkorlar uchun maxsus web platforma.
+* 🛒 **E-commerce Admin Panel:** [e-commeerce-admin.netlify.app](https://e-commeerce-admin.netlify.app/)
+* 🍔 **Food Lover Website:** [foodloverj.netlify.app](https://foodloverj.netlify.app/)
+* 🎨 **Paint Canvas:** [paint-canvas-js.netlify.app](https://paint-canvas-js.netlify.app/)
+* ⚡ **QR Code Generator:** [qrcodetelefon.netlify.app](https://qrcodetelefon.netlify.app/)
 
 ---
 
@@ -77,6 +81,10 @@ https://qrcodetelefon.netlify.app/
 📧 **Email:** xatamova40@gmail.com  
 💬 **Telegram:** [@azimjon0717](https://t.me/azimjon0717)  
 🌐 **GitHub:** [github.com/azimjonxatamov40](https://github.com/azimjonxatamov40)  
+
+---
+
+⭐️ Always building, optimizing, and growing!
 
 ---
 
