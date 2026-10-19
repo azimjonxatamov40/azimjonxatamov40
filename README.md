@@ -1,17 +1,12 @@
 ﻿<div align="center">
-  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" style="width: 100%; height: 350px; object-fit: cover; border-radius: 8px;" />
+  <!-- Pixel Art o'yin xonasi banneri (Full, kesilmagan holatda) -->
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" style="width: 100%; border-radius: 10px;" />
 </div>
 
 # Hi there 👋 I'm Azimjon Xatamov
 
 🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
 
----
-
-## 🎖️ Air Force & Battlefield Retro Arcade Zone
-
-
----
 
 ## 👨‍💻 About Me
 
