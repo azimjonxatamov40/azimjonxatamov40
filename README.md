@@ -1,12 +1,15 @@
 ﻿<div align="center">
-  <!-- Pixel Art o'yin xonasi banneri (Full, kesilmagan holatda) -->
-  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" style="width: 100%; border-radius: 10px;" />
+
+  <!-- Pixel Art o'yin xonasi banneri -->
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" width="100%" style="border-radius: 10px;" />
+
+  # Hi there 👋 I'm Azimjon Xatamov
+
+  🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
+
 </div>
 
-# Hi there 👋 I'm Azimjon Xatamov
-
-🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
-
+---
 
 ## 👨‍💻 About Me
 
@@ -18,6 +21,15 @@
 
 🎨 I focus on building scalable web solutions, optimizing database queries, and turning complex logic into seamless user experiences.
 
+---
+
+## 🔭 Currently Focused On
+
+- 🔭 **Working on:** Banking Systems Integration & Core Backend Microservices
+- 📚 **Learning:** Advanced System Design & Distributed Architecture
+- 💬 **Ask me about:** Java, Spring Boot, Oracle PL/SQL, REST APIs & Next.js
+
+---
 ---
 
 ## 🛠️ Tech Stack & Badges
@@ -46,24 +58,27 @@
 
 ---
 
+<div align="center">
+
 ## 📂 Featured Projects
 
-* 🏢 **Yosh Tadbirkor Platformasi:** [yoshtadbirkor.uz](https://yoshtadbirkor.uz/) — Yosh tadbirkorlar uchun maxsus web platforma.
-* 🛒 **E-commerce Admin Panel:** [e-commeerce-admin.netlify.app](https://e-commeerce-admin.netlify.app/)
-* 🍔 **Food Lover Website:** [foodloverj.netlify.app](https://foodloverj.netlify.app/)
-* 🎨 **Paint Canvas:** [paint-canvas-js.netlify.app](https://paint-canvas-js.netlify.app/)
-* ⚡ **QR Code Generator:** [qrcodetelefon.netlify.app](https://qrcodetelefon.netlify.app/)
+[![Yosh Tadbirkor](https://img.shields.io/badge/🏢_Yosh_Tadbirkor_Platformasi-yoshtadbirkor.uz-0078D4?style=for-the-badge&logoColor=white)](https://yoshtadbirkor.uz/)
+[![E-commerce Admin](https://img.shields.io/badge/🛒_E--commerce_Admin-Netlify-232F3E?style=for-the-badge&logoColor=white)](https://e-commeerce-admin.netlify.app/)  
+[![Food Lover](https://img.shields.io/badge/🍔_Food_Lover_Website-Netlify-FF4F00?style=for-the-badge&logoColor=white)](https://foodloverj.netlify.app/)
+[![Paint Canvas](https://img.shields.io/badge/🎨_Paint_Canvas-Netlify-61DAFB?style=for-the-badge&logoColor=white)](https://paint-canvas-js.netlify.app/)  
+[![QR Code Generator](https://img.shields.io/badge/⚡_QR_Code_Generator-Netlify-10B981?style=for-the-badge&logoColor=white)](https://qrcodetelefon.netlify.app/)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact & Connect
 
-📞 **Phone:** +998 88 135 32 33  
-📧 **Email:** xatamova40@gmail.com  
-💬 **Telegram:** [@azimjon0717](https://t.me/azimjon0717)  
-🌐 **GitHub:** [github.com/azimjonxatamov40](https://github.com/azimjonxatamov40)  
+[![Phone](https://img.shields.io/badge/PHONE-%2B998_94_440_60_63-333333?style=for-the-badge&logo=receiver&logoColor=white)](tel:+998944406063)
+[![Email](https://img.shields.io/badge/EMAIL-xatamova40%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xatamova40@gmail.com)  
+[![Telegram](https://img.shields.io/badge/TELEGRAM-%40AZIMJON0717-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azimjon0717)
+[![GitHub](https://img.shields.io/badge/GITHUB-AZIMJONXATAMOV40-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azimjonxatamov40)
 
 ---
 
-⭐️ Always building, optimizing, and growing! 
-/* Test activity */
+⭐️ Always building, optimizing, and growing!
+
+</div>
