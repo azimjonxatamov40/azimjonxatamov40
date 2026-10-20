@@ -7,6 +7,28 @@
 
 🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
 
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azimjonxatamov40&theme=darkhub&no-frame=true&column=4" alt="Azimjon's GitHub Trophies" />
+</div>
+
+---
+
+## ⚔️ Clash of Clans & Epic Battlefield Strike Zone
+
+<div align="center">
+  <!-- Clash of Clans / Strategy Battlefield Animation -->
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" alt="Clash of Clans Battle Animation" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
+</div>
+
+
+
+
+
+---
 
 ## 👨‍💻 About Me
 
@@ -43,6 +65,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 3D Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.eg2849.workers.dev?username=azimjonxatamov40&theme=dark" alt="Azimjon's 3D Contribution Graph" width="100%" />
+</div>
 
 ---
 
