@@ -79,20 +79,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=azimjonxatamov40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimjonxatamov40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=azimjonxatamov40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 <div align="center">
 
