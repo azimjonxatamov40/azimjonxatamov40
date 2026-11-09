@@ -3,7 +3,7 @@
   <!-- Pixel Art o'yin xonasi banneri -->
   <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Coding Gaming Setup" width="100%" style="border-radius: 10px;" />
 
-  # Hi there 👋 I'm Azimjon HXatamov
+  # Hi there 👋 I'm Azimjon Khatamov
 
   🚀 **Software Engineer** at **Intelligent Solutions** | **Fintech & Enterprise Systems**
 
